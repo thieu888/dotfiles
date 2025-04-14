@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matthieu.moloko1506@gmail.com
+	name = Matthieu Moloko
